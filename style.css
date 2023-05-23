@@ -1,0 +1,13 @@
+body{
+    background-color: #3f5261;
+}
+.text{
+    font-size: 14px;
+}
+.text1{
+    letter-spacing: 2px;
+}
+.outils{
+    width: 90px;
+    height: 90px;
+}
